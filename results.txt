@@ -1,0 +1,175 @@
+Rule: Adobe Premiere Clip -> 5 Minute Ab Workouts
+Support: 0.22
+Confidence: 0.9166666666666667
+Lift: 2.7777777777777777
+=====================================
+Rule: Install images with music to make video without Net - 2018 -> A hundred
+Support: 0.21
+Confidence: 0.5675675675675675
+Lift: 2.364864864864865
+=====================================
+Rule: Adobe Premiere Clip -> ARK: Survival Evolved
+Support: 0.27
+Confidence: 0.9000000000000001
+Lift: 2.7272727272727275
+=====================================
+Rule: ARK: Survival Evolved -> Golden telegram
+Support: 0.21
+Confidence: 0.7
+Lift: 2.0
+=====================================
+Rule: Adobe Premiere Clip -> Golden telegram
+Support: 0.24
+Confidence: 0.7272727272727272
+Lift: 2.0779220779220777
+=====================================
+Rule: Adobe Premiere Clip -> Meitu – Beauty Cam, Easy Photo Editor
+Support: 0.23
+Confidence: 0.696969696969697
+Lift: 2.3232323232323235
+=====================================
+Rule: Hitwe - meet people and chat -> All Email Providers
+Support: 0.23
+Confidence: 0.7419354838709677
+Lift: 2.318548387096774
+=====================================
+Rule: My Vodacom SA -> All Email Providers
+Support: 0.21
+Confidence: 0.6774193548387096
+Lift: 2.7096774193548385
+=====================================
+Rule: BBW Dating & Curvy Singles Chat- LargeFriends -> Hitwe - meet people and chat
+Support: 0.21
+Confidence: 0.7
+Lift: 2.1875
+=====================================
+Rule: Dairy Queen -> Chick-fil-A
+Support: 0.23
+Confidence: 0.696969696969697
+Lift: 2.248289345063539
+=====================================
+Rule: Fat Burning Workout - Home Weight lose -> Chick-fil-A
+Support: 0.22
+Confidence: 0.6666666666666666
+Lift: 2.083333333333333
+=====================================
+Rule: Running Distance Tracker + -> Chick-fil-A
+Support: 0.2
+Confidence: 0.6060606060606061
+Lift: 2.635046113306983
+=====================================
+Rule: Starbucks -> Chick-fil-A
+Support: 0.24
+Confidence: 0.7272727272727272
+Lift: 2.3460410557184748
+=====================================
+Rule: Dairy Queen -> Starbucks
+Support: 0.2
+Confidence: 0.6451612903225807
+Lift: 2.081165452653486
+=====================================
+Rule: Starbucks -> Fat Burning Workout - Home Weight lose
+Support: 0.2
+Confidence: 0.625
+Lift: 2.0161290322580645
+=====================================
+Rule: Hitwe - meet people and chat -> Mingle - Online Dating App to Chat & Meet People
+Support: 0.21
+Confidence: 0.65625
+Lift: 2.1875
+=====================================
+Rule: Hitwe - meet people and chat -> My Vodacom SA
+Support: 0.2
+Confidence: 0.625
+Lift: 2.5
+=====================================
+Rule: Verify - Receipts & Expenses -> Install images with music to make video without Net - 2018
+Support: 0.23
+Confidence: 0.9583333333333334
+Lift: 2.0833333333333335
+=====================================
+Rule: Starbucks -> Running Distance Tracker +
+Support: 0.22
+Confidence: 0.9565217391304347
+Lift: 3.0855539971949506
+=====================================
+Rule: Verify - Receipts & Expenses -> A hundred
+Support: 0.2
+Confidence: 0.5405405405405406
+Lift: 2.2522522522522523
+=====================================
+Rule: Verify - Receipts & Expenses -> A hundred
+Support: 0.23
+Confidence: 0.5
+Lift: 2.0833333333333335
+=====================================
+Rule: Verify - Receipts & Expenses -> Install images with music to make video without Net - 2018
+Support: 0.2
+Confidence: 0.5405405405405406
+Lift: 2.3501762632197414
+=====================================
+Rule: Verify - Receipts & Expenses -> A hundred
+Support: 0.22
+Confidence: 0.5945945945945946
+Lift: 2.050326188257223
+=====================================
+Rule: Verify - Receipts & Expenses -> A hundred
+Support: 0.22
+Confidence: 0.5945945945945946
+Lift: 2.3783783783783785
+=====================================
+Rule: NoBuffDating - Free Dating App -> Verify - Receipts & Expenses
+Support: 0.21
+Confidence: 0.5675675675675675
+Lift: 2.0270270270270268
+=====================================
+Rule: Verify - Receipts & Expenses -> Selfie Camera
+Support: 0.22
+Confidence: 0.5945945945945946
+Lift: 2.1235521235521233
+=====================================
+Rule: Adobe Premiere Clip -> ARK: Survival Evolved
+Support: 0.2
+Confidence: 0.6666666666666667
+Lift: 2.777777777777778
+=====================================
+Rule: Verify - Receipts & Expenses -> Adobe Premiere Clip
+Support: 0.2
+Confidence: 0.6060606060606061
+Lift: 2.635046113306983
+=====================================
+Rule: Microsoft Remote Desktop -> Cricket Visual Voicemail
+Support: 0.24
+Confidence: 0.7272727272727272
+Lift: 2.693602693602693
+=====================================
+Rule: Dairy Queen -> Microsoft Remote Desktop
+Support: 0.2
+Confidence: 0.6060606060606061
+Lift: 2.635046113306983
+=====================================
+Rule: Microsoft Remote Desktop -> Fat Burning Workout - Home Weight lose
+Support: 0.22
+Confidence: 0.6666666666666666
+Lift: 2.564102564102564
+=====================================
+Rule: Microsoft Remote Desktop -> Golden telegram
+Support: 0.2
+Confidence: 0.6060606060606061
+Lift: 2.4242424242424243
+=====================================
+Rule: Starbucks -> Microsoft Remote Desktop
+Support: 0.21
+Confidence: 0.6363636363636364
+Lift: 2.6515151515151514
+=====================================
+Rule: Microsoft Remote Desktop -> Fat Burning Workout - Home Weight lose
+Support: 0.2
+Confidence: 0.625
+Lift: 2.314814814814815
+=====================================
+Rule: NoBuffDating - Free Dating App -> Selfie Camera
+Support: 0.2
+Confidence: 0.5405405405405406
+Lift: 2.002002002002002
+=====================================
